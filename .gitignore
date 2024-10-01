@@ -1,0 +1,11 @@
+__pycache__
+config.yaml
+test.py
+.env
+tmp
+*json
+*faiss
+*pkl
+*docx
+*pdf
+
